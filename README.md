@@ -1,9 +1,18 @@
-### Working
+### The Idea
 
+1. Health/exercise (clean transport, journey transport)
+1. Self improvement compared to demographics
+
+### Note dump
+
+#### CL
 * QLD Traffic
 * ABS taling points: Car/Motorcycle/Bus.Ave = 10.2/5.8/14.2/10.4 - (ABS survey of motor vehicle use Table 6)
 * $23/tonne Carbon tax (back when there was one)
 * More distance bt vehicles, less bottlenecks, less traffic shockwave
+
+#### SL
+* 
 
 ### Open Data for our ideas
 * open data sources:
@@ -26,7 +35,7 @@
 * 
 
 ### [Timeline](https://govhack.org/competition/competition-rules-code-of-conduct/)
-- [ ] 12pm Saturday Local time – all competitors must register as a user on Hackerspace.
+- [x] 12pm Saturday Local time – all competitors must register as a user on Hackerspace.
 - [ ] 5pm Saturday Local time – A __Team Project Page__ and your __prize category nomination__ must be completed in Hackerspace. Record all your team members on your project page and the URL to your proof of concept repository. No new projects pages can be created after this time. You are still able to edit your project page after this time.
 - [ ] 4pm Sunday Local time – Your __video__ should be finalised and a URL linking to your video created to load on your Project page. It may take some time for your video to load once you have started the upload process.
 - [ ] 5pm Sunday local time –  You MUST have all parts of your competition entry finalised before 5:00pm Local time which includes 1) your team page, 2) your ___data story description and detail of data sets used__ 3) your __Project outcomes (demo’s, code, graphics, photos submitted__, and 4) your __video__ link uploaded.
