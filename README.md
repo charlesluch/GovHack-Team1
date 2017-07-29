@@ -8,7 +8,7 @@
    * 
 
 ### 1. Development
-Charles, Anis, Michael, Jeff
+Charles, Anis, Michael, David
 1. Get Datasets
     * CityCycle
     * Walking Paths
