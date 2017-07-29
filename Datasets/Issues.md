@@ -6,19 +6,18 @@
 1. Closest & y mins from destination DEST
     1. Thinking in squares has easier math:
     * Given Destination d(dx,dy) and Origin o(ox,oy) and a Distance h1 (provided by user input ui) __we don't have enough data to compute point input(ux,uy)__ calculate by:
-    * 
-    * a = dx-ox
-    * o = dy-oy
-    * h = (a^2+o^2)^(1/2)
-    * ask google the straight line distance between d and o, then get a coefficient to convert ui to h1 by map scale
-    * theta = (tan^(-1))*(o/a)
-    * a1 = h1*((cos^(-1))*theta)
-    * theta1 = 90-theta
-    * a2 = h1*((cos^(-1))*theta1)
-    * a1 = ux
-    * a2 = uy
------------------------------------------------------------------------------------------
-    * else h = straight line distance calculated by h=((r-e)^2+(g-s)^2)^(1/2)
+    'a = dx-ox
+    o = dy-oy
+    h = (a^2+o^2)^(1/2)
+    //ask google the straight line distance between d and o, then get a coefficient to convert ui to h1 by map scale
+    theta = (tan^(-1))*(o/a)
+    a1 = h1*((cos^(-1))*theta)
+    theta1 = 90-theta
+    a2 = h1*((cos^(-1))*theta1)
+    a1 = ux
+    a2 = uy'
+    // else h = straight line distance calculated by: 
+    'h=((r-e)^2+(g-s)^2)^(1/2)'
     
 1. CityCycleAPI functionality? we need to draw from the API to get the CityCycle long & lat for SQL shortlist procedures if we run the SQL shortlist option for USERINPUT -> GOOGLE SLD -> min(CC SLD) process.
 
