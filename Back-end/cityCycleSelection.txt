@@ -26,37 +26,45 @@ uy = dy;
 // case 1: quadrant on top right
 
 if((dx-ox) >= 0 && (dy-oy) >= 0) {
+   /* "HEY API!"                              
    SELECT CCLong, CCLat, ...
    FROM CityCycleLocationsAPI
    WHERE CCLat > oy AND CCLong > ox
    ORDER BY GoogleAPITravelTime;
+   */
 }
 
 // case 2: quadrant on top left
 
 if((dx-ox) <= 0 && (dy-oy) >= 0) {
+   /* "HEY API!"
    SELECT CCLong, CCLat, ...
    FROM CityCycleLocationsAPI
    WHERE CCLat > oy AND ox > CCLong
    ORDER BY GoogleAPITravelTime;
+   */
 }
 
 // case 3: quadrant on bottom left
 
 if((dx-ox) <= 0 && (dy-oy) <= 0) {
+   /* "HEY API!"
    SELECT CCLong, CCLat, ...
    FROM CityCycleLocationsAPI
    WHERE oy > CCLat AND ox > CCLong
    ORDER BY GoogleAPITravelTime;
+   */
 }
 
 // case 4: quadrant on top left
 
 if((dx-ox) >= 0 && (dy-oy) >= 0) {
+   /* "HEY API!"
    SELECT CCLong, CCLat, ...
    FROM CityCycleLocationsAPI
    WHERE oy > CCLat AND CCLong > ox
    ORDER BY GoogleAPITravelTime;
+   */
 }
 
 // next step: return to front end and visualize :)
