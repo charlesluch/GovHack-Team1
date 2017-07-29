@@ -36,7 +36,7 @@ Charles, Anis, Michael, David, Ben
    * REACT on GitHub
 1. Cheap/Free parking that we can stitch... ()
 1. UI Home, Work, Exercise time @ type dropboxes...
-1. 
+1. How do we request google location services?
 
 #### Advanced features
 
