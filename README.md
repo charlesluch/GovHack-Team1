@@ -1,7 +1,10 @@
 # Active City 
 
 ### The Idea
-One third of Queenslanders are not getting enough exercise to maintain their health. Addressing this issue will yeild great social benefit: community that habitually values and makes day-to-day decisions based on . However if we are creative about how we solve this solution, we can foster greater and sustained user engagement, reduce congestion and air pollution the solution has implications  have to get to work, we want to empower people to engage with healthier options to make that journey. To add benefit to their necessary trips.
+One third of Queenslanders are not getting enough exercise to maintain their health. During our commutes we habitually choose the most time efficient mode of transport over the benefits of a more active mode of transport.
+Addressing this issue will yeild great social benefit: community that habitually values and makes day-to-day decisions based on more important factors than time. 
+The Artisan Hacksmiths applied themselves to finding creative solutions to this problem and came up with a tragectory of development for Active City that can foster greater and sustained user engagement, reduce congestion and air pollution.
+We want to empower people to engage with healthier options to make that journey. To add benefit to both their necessary trips and al.
    * "How can I swap out my regular habits to have a healthier lifestyle through my transport habits"
 
 We envisage the application to be scalable in the following ways:
