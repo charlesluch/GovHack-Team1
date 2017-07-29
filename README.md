@@ -1,7 +1,15 @@
 ### The Idea
 
 1. Health/exercise (clean transport, journey transport)
+   * "I have to get to work, how can I do that with  benefit"
+   * 
 1. Self improvement compared to demographics
+   * 
+
+### Datasets
+
+1. Parking site datasets
+1. 
 
 ### Note dump
 
