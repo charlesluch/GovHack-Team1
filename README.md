@@ -79,8 +79,6 @@ Sophia, Adam, Joe
     * [Health expenditure in Australia](https://data.gov.au/dataset/health-expenditure-in-australia)
     * [Social Health Atlas Aus - PHIDU](http://phidu.torrens.edu.au/social-health-atlases/data)
 
-### Congestion and Google APIs
-* 
 
 ### [Timeline](https://govhack.org/competition/competition-rules-code-of-conduct/)
 - [x] 12pm Saturday Local time – all competitors must register as a user on Hackerspace.
