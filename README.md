@@ -44,15 +44,13 @@ Charles, Anis, Michael, David, Ben
 1. Redlands and Logan, then Aus wide
 
 ### 1. Pitch
-Sophia, Adam, Joe
-1. ABS Stat: [Exercise](http://www.abs.gov.au/ausstats/abs@.nsf/mf/4364.0.55.001)
+Sophia, Adam, Joe1. ABS Stat: [Exercise](http://www.abs.gov.au/ausstats/abs@.nsf/mf/4364.0.55.001)
 "In 2014-15, 55.5% of 18-64 year olds participated in sufficient physical activity in the last week (more than 150 minutes of moderate physical activity or more than 75 minutes of vigorous physical activity, or an equivalent combination of both, including walking). Nearly one in three (29.7%) were insufficiently active (less than 150 minutes in the last week) while 14.8% were inactive (no exercise in the last week)."
 
 ### Datasets
 
 1. Parking site datasets
 1. 
-
 ### Note dump
 
 #### CL
@@ -84,7 +82,7 @@ Sophia, Adam, Joe
 
 ### [Timeline](https://govhack.org/competition/competition-rules-code-of-conduct/)
 - [x] 12pm Saturday Local time – all competitors must register as a user on Hackerspace.
-- [ ] 5pm Saturday Local time – A __Team Project Page__ and your __prize category nomination__ must be completed in Hackerspace. Record all your team members on your project page and the URL to your proof of concept repository. No new projects pages can be created after this time. You are still able to edit your project page after this time.
+- [x] 5pm Saturday Local time – A __Team Project Page__ and your __prize category nomination__ must be completed in Hackerspace. Record all your team members on your project page and the URL to your proof of concept repository. No new projects pages can be created after this time. You are still able to edit your project page after this time.
 - [ ] 4pm Sunday Local time – Your __video__ should be finalised and a URL linking to your video created to load on your Project page. It may take some time for your video to load once you have started the upload process.
 - [ ] 5pm Sunday local time –  You MUST have all parts of your competition entry finalised before 5:00pm Local time which includes 1) your team page, 2) your ___data story description and detail of data sets used__ 3) your __Project outcomes (demo’s, code, graphics, photos submitted__, and 4) your __video__ link uploaded.
 
