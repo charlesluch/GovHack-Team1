@@ -1,0 +1,9 @@
+/* The purpose of this option is to work backward from Destination,
+we first find every CityCycle stop which is roughly ui [user input] kilometers
+in a straight line from destination d(dx,dy)                            */
+
+h1 = ui/sc;
+
+/* where the variable sc is a coefficient transferring latitude 
+and longitude to kilometers by multiplying the map scale by a constant. */
+
