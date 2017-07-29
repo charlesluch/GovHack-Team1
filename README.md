@@ -1,7 +1,7 @@
-### The Idea
+ ### The Idea
 
 1. Health/exercise (clean transport, journey transport)
-   * "I have to get to work, how can I do that with  benefit"
+   * "I have to get to work, how can I do that with  benefit" (better, healthier)
    * 
 1. Self improvement compared to demographics
    * 
