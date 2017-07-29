@@ -7,3 +7,4 @@ h1 = ui/sc;
 /* where the variable sc is a coefficient transferring latitude 
 and longitude to kilometers by multiplying the map scale by a constant. */
 
+...
