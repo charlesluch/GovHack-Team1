@@ -33,7 +33,7 @@ Charles, Anis, Michael, David, Ben
    * material-ui.com = no need for style sheet
    * UI frameworks work with REACT
    * REACT state change reflects how it is...
-   * 
+   * REACT on GitHub
 1. Cheap/Free parking that we can stitch... ()
 1. UI Home, Work, Exercise time @ type dropboxes...
 1. 
