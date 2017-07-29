@@ -1,4 +1,3 @@
-
 ### The Idea
 
 1. Health/exercise (clean transport, journey transport)
@@ -32,6 +31,9 @@ Charles, Anis, Michael, David, Ben
    * HERE APIs, SDKs
    * jsfiddle.net    = plain code
    * material-ui.com = no need for style sheet
+   * UI frameworks work with REACT
+   * REACT state change reflects how it is...
+   * 
 1. Cheap/Free parking that we can stitch... ()
 1. UI Home, Work, Exercise time @ type dropboxes...
 1. 
