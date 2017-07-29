@@ -15,5 +15,9 @@
       REAL STEP 2: make a circle: CIRC l = (g-c)^2 + (o-e)^2 = r^2
       REAL STEP 3: refer back to CIRC l later...
       REAL STEP 4: for(i=1;i=m;i++); where m is the maximum entities in __database table for city cycle points!!??__
+      CCL SLD((f,g), min(CCL)) = CCL SLD((f,g), derivative of CIRC
+      REAL STEP 5: derivative of CIRC = ... (there's a [calculator](https://www.symbolab.com/solver/implicit-derivative-calculator) for that)
     1. compare processing times between shortlisting and going through all of the long/lat points on the Database
+SOOOOOOO SLLLLLLLOOOOOOOWWWWWWWWW!!!!!!!!! (probably...)
+
 1. CityCycleAPI functionality? we need to draw from the API to get the CityCycle long & lat for SQL shortlist procedures if we run the SQL shortlist option for USERINPUT -> GOOGLE SLD -> min(CC SLD) process.
