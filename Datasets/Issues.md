@@ -1,25 +1,23 @@
 \(#### Issues
 1. Closest CityCycle location?
     1. 2d point SQL search for the shortest straight line distance (return top 10)
+    * equation: SLD((x1,y1), (x2,y2)) = ((x2-x1)2 + (y2-y1)^2)^(1/2)
     1. Google API calculates real top x results.
 1. Closest & y mins from destination DEST
     1. Thinking in squares has easier math:
-    * Given Destination d(e,s) and Origin o(r,g) and a Distance h1 (provided by user input) __we don't have enough data to compute point input(i,n)__ calculate by:
-    * a = e-r
-    * o = s-g
+    * Given Destination d(dx,dy) and Origin o(ox,oy) and a Distance h1 (provided by user input ui) __we don't have enough data to compute point input(ux,uy)__ calculate by:
+    * 
+    * a = dx-ox
+    * o = dy-oy
     * h = (a^2+o^2)^(1/2)
+    * ask google the straight line distance between d and o, then get a coefficient to convert ui to h1 by map scale
     * theta = (tan^(-1))*(o/a)
     * a1 = h1*((cos^(-1))*theta)
     * theta1 = 90-theta
     * a2 = h1*((cos^(-1))*theta1)
-    * a1
-    
-    by solving for the point implied by user input(i,n) in the equation h=((r-i)^2+(g-n)^2)^(1/2)...
-    * Known: h, r, g
-    * ... h^2 = (r-i)^2+(g-n)^2...
-    * ... h = r-i+g-n ...
-    * ... i=-n-h+r+g & n=-i-h+r+g
-    1. 
+    * a1 = ux
+    * a2 = uy
+-----------------------------------------------------------------------------------------
     * else h = straight line distance calculated by h=((r-e)^2+(g-s)^2)^(1/2)
     
 1. CityCycleAPI functionality? we need to draw from the API to get the CityCycle long & lat for SQL shortlist procedures if we run the SQL shortlist option for USERINPUT -> GOOGLE SLD -> min(CC SLD) process.
@@ -42,3 +40,10 @@
       * REAL STEP 5: derivative of CIRC = ... (there's a [calculator](https://www.symbolab.com/solver/implicit-derivative-calculator) for that)
     1. compare processing times between shortlisting and going through all of the long/lat points on the Database
 SOOOOOOO SLLLLLLLOOOOOOOWWWWWWWWW!!!!!!!!! (probably...)
+    
+    by solving for the point implied by user input(i,n) in the equation h=((r-i)^2+(g-n)^2)^(1/2)...
+    * Known: h, r, g
+    * ... h^2 = (r-i)^2+(g-n)^2...
+    * ... h = r-i+g-n ...
+    * ... i=-n-h+r+g & n=-i-h+r+g
+    1. 
