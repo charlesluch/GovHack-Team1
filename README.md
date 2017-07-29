@@ -29,6 +29,9 @@ Charles, Anis, Michael, David
    * ORM (Object Relational Model)
 1. Google maps API stiched in ()
    * HERE APIs, SDKs
+   * jsfiddle.net    = plain code
+   * material-ui.com = no need for style sheet
+   
 1. Cheap/Free parking that we can stitch... ()
 1. UI Home, Work, Exercise time @ type dropboxes...
 1. 
