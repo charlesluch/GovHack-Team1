@@ -1,3 +1,4 @@
+
 ### The Idea
 
 1. Health/exercise (clean transport, journey transport)
@@ -8,7 +9,7 @@
    * 
 
 ### 1. Development
-Charles, Anis, Michael, David
+Charles, Anis, Michael, David, Ben
 1. Get Datasets
     * CityCycle
     * Walking Paths
@@ -31,7 +32,6 @@ Charles, Anis, Michael, David
    * HERE APIs, SDKs
    * jsfiddle.net    = plain code
    * material-ui.com = no need for style sheet
-   
 1. Cheap/Free parking that we can stitch... ()
 1. UI Home, Work, Exercise time @ type dropboxes...
 1. 
