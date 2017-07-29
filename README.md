@@ -13,13 +13,24 @@ Charles, Anis, Michael, Jeff
     * CityCycle
     * Walking Paths
     * Riding Paths
+    * Bike Rack
     * 
+    
 1. Incorperating the data into the project (programming)
     * A - B with a bike ride = C in 20km radius
     * possible add at the end: multiple users...
     * congestion line, outside this line, we suggest bike service/parking
     * inside the line, we suggest city cycle, bike racks, walking paths
     * 
+
+#### Data Team:
+
+1. Data cleaned and into relational table (Charles)
+   * ORM (Object Relational Model)
+1. Google maps API stiched in ()
+1. Cheap/Free parking that we can stitch... ()
+1. UI Home, Work, Exercise time @ type dropboxes...
+1. 
 
 ### 1. Pitch
 * Sophia, Adam, Joe
