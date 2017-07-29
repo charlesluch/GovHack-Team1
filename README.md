@@ -1,3 +1,9 @@
+# Active City 
+
+    Let's get moving Queensland. Let's clear the roads of bad congestion. Let's get our bodies active and healthy. 
+    Active City is a web application designed to help community members make small incremental changes to their daily habits to improve their health, while reducing their carbon footprint.
+    We believe that you can swap your time for driving by walking or cycling. By swapping driving for walking you are not only getting the recommended exercise but also reducing carbon footprints and traffic congestion.
+
 ### The Idea
 
 1. Health/exercise (clean transport, journey transport)
