@@ -33,6 +33,11 @@ Charles, Anis, Michael, Jeff
 1. UI Home, Work, Exercise time @ type dropboxes...
 1. 
 
+#### Advanced features
+
+1. Public transport integration
+1. Redlands and Logan, then Aus wide
+
 ### 1. Pitch
 * Sophia, Adam, Joe
 
