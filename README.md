@@ -2,9 +2,27 @@
 
 1. Health/exercise (clean transport, journey transport)
    * "I have to get to work, how can I do that with  benefit"
+   * "How can I swap out my regular habits to have a healthier lifestyle through my transport habits"
    * 
 1. Self improvement compared to demographics
    * 
+
+### 1. Development
+Charles, Anis, Michael, Jeff
+1. Get Datasets
+    * CityCycle
+    * Walking Paths
+    * Riding Paths
+    * 
+1. Incorperating the data into the project (programming)
+    * A - B with a bike ride = C in 20km radius
+    * possible add at the end: multiple users...
+    * congestion line, outside this line, we suggest bike service/parking
+    * inside the line, we suggest city cycle, bike racks, walking paths
+    * 
+
+### 1. Pitch
+* Sophia, Adam, Joe
 
 ### Datasets
 
