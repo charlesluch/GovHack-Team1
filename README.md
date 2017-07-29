@@ -1,17 +1,16 @@
-# Active City 
-
-    Let's get moving Queensland. Let's clear the roads of bad congestion. Let's get our bodies active and healthy. 
-    Active City is a web application designed to help community members make small incremental changes to their daily habits to improve their health, while reducing their carbon footprint.
-    We believe that you can swap your time for driving by walking or cycling. By swapping driving for walking you are not only getting the recommended exercise but also reducing carbon footprints and traffic congestion.
+\# Active City 
 
 ### The Idea
-
-1. Health/exercise (clean transport, journey transport)
-   * "I have to get to work, how can I do that with  benefit"
+People have to get to work, we want to empower people to engage with healthier options to make that journey. To add benefit to their necessary trips.
    * "How can I swap out my regular habits to have a healthier lifestyle through my transport habits"
-   * 
+
+We envisage the application to be scalable in the following ways:
 1. Self improvement compared to demographics
+   *  
+1. Save favourite routes for driving, riding and walking
    * 
+1. 
+   
 
 ### 1. Development
 Charles, Anis, Michael, David, Ben
