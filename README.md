@@ -1,3 +1,10 @@
+### Working
+
+* QLD Traffic
+* ABS taling points: Car/Motorcycle/Bus.Ave = 10.2/5.8/14.2/10.4 - (ABS survey of motor vehicle use Table 6)
+* $23/tonne Carbon tax (back when there was one)
+* More distance bt vehicles, less bottlenecks, less traffic shockwave
+
 ### Open Data for our ideas
 * open data sources:
     * [data.gov](https://data.gov.au/), 
