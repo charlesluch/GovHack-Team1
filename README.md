@@ -28,6 +28,7 @@ Charles, Anis, Michael, Jeff
 1. Data cleaned and into relational table (Charles)
    * ORM (Object Relational Model)
 1. Google maps API stiched in ()
+   * HERE APIs, SDKs
 1. Cheap/Free parking that we can stitch... ()
 1. UI Home, Work, Exercise time @ type dropboxes...
 1. 
