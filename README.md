@@ -1,7 +1,7 @@
-\# Active City 
+# Active City 
 
 ### The Idea
-People have to get to work, we want to empower people to engage with healthier options to make that journey. To add benefit to their necessary trips.
+One third of Queenslanders are not getting enough exercise to maintain their health. Addressing this issue will yeild great social benefit: community that habitually values and makes day-to-day decisions based on . However if we are creative about how we solve this solution, we can foster greater and sustained user engagement, reduce congestion and air pollution the solution has implications  have to get to work, we want to empower people to engage with healthier options to make that journey. To add benefit to their necessary trips.
    * "How can I swap out my regular habits to have a healthier lifestyle through my transport habits"
 
 We envisage the application to be scalable in the following ways:
