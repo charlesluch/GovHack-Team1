@@ -1,6 +1,6 @@
 # Active City 
 
-### The Idea
+### Exercise Habits
 
 ![Average of greater brisbane values](https://github.com/charlesluch/GovHack-Team1/blob/master/Datasets/Presentation/Vis%20greater%20brisbane%20pie%20chart%20with%20brand%20colors.png)
 One third of Queenslanders are not getting enough exercise to maintain their health. During our commutes we habitually choose the most time efficient mode of transport over the benefits of a more active mode of transport.
