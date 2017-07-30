@@ -1,17 +1,15 @@
 # Active City 
 
 ### The Idea
-![Visualisation of PHIDU Social Health Atlas](https://github.com/charlesluch/GovHack-Team1/blob/master/Datasets/Presentation/Vis%20normal%20table.png)
 
+![Average of greater brisbane values](https://github.com/charlesluch/GovHack-Team1/blob/master/Datasets/Presentation/Vis%20greater%20brisbane%20pie%20chart%20with%20brand%20colors.png)
 One third of Queenslanders are not getting enough exercise to maintain their health. During our commutes we habitually choose the most time efficient mode of transport over the benefits of a more active mode of transport.
 Addressing this issue will yeild great social benefit: community that habitually values and makes day-to-day decisions based on more important factors than time. 
 The Artisan Hacksmiths applied themselves to finding creative solutions to this problem and came up with a tragectory of development for Active City that can foster greater and sustained user engagement, reduce congestion and air pollution.
 We want to empower people to engage with healthier options to make that journey. To add benefit to both their necessary trips and al.
-   * "How can I swap out my regular habits to have a healthier lifestyle through my transport habits"
+    "How can I swap out my regular habits to have a healthier lifestyle through my transport habits"
 
-![Average of greater brisbane values](https://github.com/charlesluch/GovHack-Team1/blob/master/Datasets/Presentation/Vis%20greater%20brisbane%20pie%20chart.png)
-![Average of greater brisbane values](https://github.com/charlesluch/GovHack-Team1/blob/master/Datasets/Presentation/Vis%20greater%20brisbane%20pie%20chart%20with%20brand%20colors.png)
-
+![Visualisation of PHIDU Social Health Atlas](https://github.com/charlesluch/GovHack-Team1/blob/master/Datasets/Presentation/Vis%20normal%20table.png)
 
 We envisage the application to be scalable in the following ways:
 1. Self improvement compared to demographics
