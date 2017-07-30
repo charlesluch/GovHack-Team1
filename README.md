@@ -1,7 +1,7 @@
 # Active City 
 
 ### The Idea
-![Visualisation of PHIDU Social Health Atlas]()
+![Visualisation of PHIDU Social Health Atlas](https://github.com/charlesluch/GovHack-Team1/blob/master/Datasets/Presentation/Vis%20normal%20table.png)
 One third of Queenslanders are not getting enough exercise to maintain their health. During our commutes we habitually choose the most time efficient mode of transport over the benefits of a more active mode of transport.
 Addressing this issue will yeild great social benefit: community that habitually values and makes day-to-day decisions based on more important factors than time. 
 The Artisan Hacksmiths applied themselves to finding creative solutions to this problem and came up with a tragectory of development for Active City that can foster greater and sustained user engagement, reduce congestion and air pollution.
