@@ -1,4 +1,4 @@
-# Active City 
+![Active City Banner](https://github.com/charlesluch/GovHack-Team1/blob/master/Datasets/Presentation/active-city-banner-5.png)
 
 ### Exercise Habits
 
@@ -13,19 +13,14 @@ We want to empower people to engage with healthier options to make that journey.
 
 We envisage the application to be scalable in the following ways:
 1. Self improvement compared to demographics
-   *  
 1. Save favourite routes for driving, riding and walking
-   * 
 1. 
    
-
-### 1. Development
+### Development
 Charles, Anis, Michael, David, Ben
-1. Get Datasets
-    * CityCycle
-    * Walking Paths
-    * Riding Paths
-    * Bike Rack
+
+* Included Datasets
+    * CityCycle (Brisbane City Council)
     * 
     
 1. Incorperating the data into the project (programming)
