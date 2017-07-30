@@ -8,7 +8,7 @@ One third of Queenslanders are not getting enough exercise to maintain their hea
 
 Addressing this issue will yeild great social benefit: community that habitually values and makes day-to-day decisions based on more important factors than time. 
 
-The Artisan Hacksmiths applied themselves to finding creative solutions to this problem and came up with a tragectory of development for activecity.space that can foster greater and sustained user engagement, reduce congestion and air pollution.
+The Artisan Hacksmiths applied themselves to finding creative solutions to this problem and came up with a tragectory of development for [activecity.space]() that can foster greater and sustained user engagement, reduce congestion and air pollution.
 
 We want to empower people to engage with healthier options when deciding how they commute and how they live around the city.
 
