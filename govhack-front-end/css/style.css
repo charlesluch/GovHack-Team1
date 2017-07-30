@@ -1,0 +1,276 @@
+/* for the index page */
+
+
+.search-text{
+	padding:0;
+}
+.search button{
+	padding-left: 4px;
+	margin: 0;
+}
+
+#ads-table td{
+	width: 200px;
+	height: 200px;
+	background-size: contain;
+}
+
+body {
+    color:white;
+}
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:    white;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    white;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    white;
+   opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color:    white;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+   color:    white;
+}
+
+
+
+.del_wrapper{float:right;}
+
+#heading1 {
+    color: #284e78;
+    float: left;
+    font-family: 'Rammetto One', cursive;
+    font-size: 3em;
+}
+
+span {
+    color: #284e78;
+}
+
+#heading2 {
+    color: #87ceeb;
+    float:left;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+
+p {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size : 1.5em;
+    color: #87ceeb;
+}
+
+h2 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 5em;
+}
+
+.nav {
+	font-size : 2em;
+}
+
+input.mainsearch,input.mainsearch:focus {
+    height: 2em;
+    outline: none;
+    display: block;
+    width: 100%;
+    float: left;
+    border:none;
+    border-bottom: 0.25em solid #284e78;
+    box-shadow: none;
+    background:#729539;
+    font-size: 2em;
+    text-align: center;
+}
+
+input.secondarysearch,input.secondarysearch:focus {
+    outline: none;
+    border:none;
+    box-shadow: none;
+    background:#729539;
+    border-bottom: 0.25em solid #284e78;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 3em;
+    color: white;
+    justify-content: center;
+    WIDTH:100%;
+    text-align: center;
+    background:#87ceeb;
+    
+}
+
+button#searchmap, #searchAddress {
+    background-color: #284e78;
+    font-family: 'Rammetto One', cursive;
+    width: 25%;
+    border-bottom-color: #87ceeb;
+    border-bottom-width: 3px;
+    
+}
+
+button#listmap {
+    background-color: #284e78;
+    font-family: 'Rammetto One', cursive;
+    width: 25%;
+}
+
+a.button {
+    font-size: 2em;
+    font-family: 'Rammetto One', cursive;
+}
+.main-container {
+    margin-top: 70%; 
+}
+
+body {
+    background-color: #729539;
+    background-image: url('../img/bground.png');
+    background-repeat: no-repeat;
+    background-size: 480px 480px;
+
+    position: inline-block;
+    width: 100%;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+@media screen and (min-width: 480px) {
+    body {
+        background-image: url('../img/bgroundLarge.png');
+        background-size: contain;
+        
+    }
+    input.mainsearch,input.mainsearch:focus {
+        height: 2em;
+        outline: none;
+        display: block;
+        width: 45%;
+        float: left;
+        border:none;
+        border-bottom: 0.25em solid #284e78;
+        box-shadow: none;
+        background: rgba(76, 175, 80, 0);
+        font-size: 2em;
+        text-align: center;
+}
+    .main-container {
+    margin-top: 30%; 
+}
+}
+
+
+
+.info-img {
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+ font-size: 2em;
+}
+
+.mainsearching {
+    width:20%;
+    height: 1.5em;
+    background-color: #284e78;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 2em;
+    color: white;
+}
+
+#radius {
+    display: inline;
+    position: relative;
+}
+
+
+
+.spec {
+	font-style: italic;
+	font-size: 0.7em;
+}
+
+.mainsearch {
+    outline: none;
+    border:none;
+    color: white;
+    padding-left: 1em;
+}
+
+
+
+
+
+button.button {
+    width: 100%;
+}
+
+
+#colorChange {
+    color: #87ceeb;
+}
+
+
+.sectionBorder {
+    border-radius: 0.8em;
+    background-color: white;
+    text-align: center;
+    padding: 2em;
+    margin:4em;
+}
+
+.infoList {
+    float: none;
+}
+
+div#myBtn {
+    margin: 10px;
+    cursor: pointer;
+}
+
+.exercise {
+    float: right;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+

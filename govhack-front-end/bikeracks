@@ -1,0 +1,832 @@
+[
+  {
+    "address": "100 Adelaide Street", 
+    "capacity": 4, 
+    "id": 1, 
+    "latitude": -27.46815, 
+    "location": "King George Square (Ann Street side), beside access/ ventilation tower", 
+    "longitude": 153.024, 
+    "rack_type": "2 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "100 Edward Street", 
+    "capacity": 4, 
+    "id": 2, 
+    "latitude": -27.47052, 
+    "location": "Footpath", 
+    "longitude": 153.029, 
+    "rack_type": "2 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "101 Albert Street", 
+    "capacity": 7, 
+    "id": 3, 
+    "latitude": -27.47152, 
+    "location": "Footpath", 
+    "longitude": 153.0272, 
+    "rack_type": "5 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "102 Adelaide Street", 
+    "capacity": 4, 
+    "id": 4, 
+    "latitude": -27.46849, 
+    "location": "Footpath (outside Officeworks)", 
+    "longitude": 153.0249, 
+    "rack_type": "2 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "103 Edward Street", 
+    "capacity": 2, 
+    "id": 5, 
+    "latitude": -27.4704, 
+    "location": "Footpath", 
+    "longitude": 153.029, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "108 Albert Street", 
+    "capacity": 7, 
+    "id": 6, 
+    "latitude": -27.47146, 
+    "location": "Footpath", 
+    "longitude": 153.0269, 
+    "rack_type": "5 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "108 Albert Street", 
+    "capacity": 7, 
+    "id": 7, 
+    "latitude": -27.47154, 
+    "location": "Footpath", 
+    "longitude": 153.027, 
+    "rack_type": "5 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "109 Elizabeth Street", 
+    "capacity": 4, 
+    "id": 8, 
+    "latitude": -27.47062, 
+    "location": "Corner Elizabeth Street and Albert Street", 
+    "longitude": 153.026, 
+    "rack_type": "2 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "116 Adelaide Street", 
+    "capacity": 2, 
+    "id": 9, 
+    "latitude": -27.46831, 
+    "location": "Outside Fitness First", 
+    "longitude": 153.0251, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "119 Charlotte Street", 
+    "capacity": 6, 
+    "id": 10, 
+    "latitude": -27.47082, 
+    "location": "Footpath", 
+    "longitude": 153.0273, 
+    "rack_type": "2 x 3 bay racks", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "121 Wickham Terrace", 
+    "capacity": 2, 
+    "id": 11, 
+    "latitude": -27.46465, 
+    "location": "Footpath", 
+    "longitude": 153.0258, 
+    "rack_type": "Holding rail", 
+    "suburb": "Spring Hill"
+  }, 
+  {
+    "address": "122 Roma Street", 
+    "capacity": 14, 
+    "id": 12, 
+    "latitude": -27.46735, 
+    "location": "Footpath outside District and Supreme Court", 
+    "longitude": 153.0211, 
+    "rack_type": "7 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "123 Albert Street", 
+    "capacity": 2, 
+    "id": 13, 
+    "latitude": -27.47077, 
+    "location": "Outside Coffee Club", 
+    "longitude": 153.0264, 
+    "rack_type": "Holding Rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "123 Albert Street", 
+    "capacity": 4, 
+    "id": 14, 
+    "latitude": -27.47084, 
+    "location": "Outside Coffee Club", 
+    "longitude": 153.0265, 
+    "rack_type": "3 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "125 Margaret Street", 
+    "capacity": 2, 
+    "id": 15, 
+    "latitude": -27.47322, 
+    "location": "Footpath", 
+    "longitude": 153.0277, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "127 George Street", 
+    "capacity": 2, 
+    "id": 16, 
+    "latitude": -27.47234, 
+    "location": "Corner George Street and Charlotte Street", 
+    "longitude": 153.025, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "136 Wickham Terrace", 
+    "capacity": 2, 
+    "id": 17, 
+    "latitude": -27.46489, 
+    "location": "Footpath (outside car park)", 
+    "longitude": 153.0252, 
+    "rack_type": "Holding rail", 
+    "suburb": "Spring Hill"
+  }, 
+  {
+    "address": "149 Wickham Terrace", 
+    "capacity": 2, 
+    "id": 18, 
+    "latitude": -27.46469, 
+    "location": "Footpath", 
+    "longitude": 153.0253, 
+    "rack_type": "Holding rail", 
+    "suburb": "Spring Hill"
+  }, 
+  {
+    "address": "15 Adelaide Street.", 
+    "capacity": 2, 
+    "id": 19, 
+    "latitude": -27.46995, 
+    "location": "Next to phone booth", 
+    "longitude": 153.0232, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "160 Ann Street", 
+    "capacity": 2, 
+    "id": 20, 
+    "latitude": -27.46765, 
+    "location": "Footpath (outside CQ Uni Building)", 
+    "longitude": 153.0243, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "2 Edward Street", 
+    "capacity": 6, 
+    "id": 21, 
+    "latitude": -27.47197, 
+    "location": "Corner Edward Street and Alice Street", 
+    "longitude": 153.0304, 
+    "rack_type": "3 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "20 Market Street", 
+    "capacity": 6, 
+    "id": 22, 
+    "latitude": -27.46946, 
+    "location": "In small park area on footpath", 
+    "longitude": 153.0296, 
+    "rack_type": "3 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "225 Edward Street", 
+    "capacity": 4, 
+    "id": 23, 
+    "latitude": -27.46812, 
+    "location": "Footpath (outside Commonwealth Bank)", 
+    "longitude": 153.0269, 
+    "rack_type": "2 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "239 George Street", 
+    "capacity": 2, 
+    "id": 24, 
+    "latitude": -27.47033, 
+    "location": "Footpath (outside Hitachi Building)", 
+    "longitude": 153.023, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "240 Queen Street", 
+    "capacity": 2, 
+    "id": 25, 
+    "latitude": -27.46799, 
+    "location": "Outside Commonwealth Bank", 
+    "longitude": 153.0273, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "240 Queen Street", 
+    "capacity": 8, 
+    "id": 26, 
+    "latitude": -27.46814, 
+    "location": "Outside Commonwealth Bank", 
+    "longitude": 153.027, 
+    "rack_type": "4 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "25 Adelaide Street.", 
+    "capacity": 6, 
+    "id": 27, 
+    "latitude": -27.46966, 
+    "location": "Next to Tree", 
+    "longitude": 153.0236, 
+    "rack_type": "3 Bay Rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "266 George Street", 
+    "capacity": 8, 
+    "id": 28, 
+    "latitude": -27.47038, 
+    "location": "Corner Adelaide Street and George Street (outside Brisbane Square)", 
+    "longitude": 153.0228, 
+    "rack_type": "4 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "266 George Street", 
+    "capacity": 18, 
+    "id": 29, 
+    "latitude": -27.47094, 
+    "location": "Corner North Quay and Adelaide Street (outside Brisbane Square)", 
+    "longitude": 153.0221, 
+    "rack_type": "9 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "270 Ann Street", 
+    "capacity": 10, 
+    "id": 30, 
+    "latitude": -27.46662, 
+    "location": "Footpath (outside Central Railway Station, next to pedestrian entry ramp)", 
+    "longitude": 153.0256, 
+    "rack_type": "2 x 5 bay racks", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "270 Queen Street", 
+    "capacity": 9, 
+    "id": 31, 
+    "latitude": -27.46744, 
+    "location": "Post Office Square, next to eastern walkway", 
+    "longitude": 153.0278, 
+    "rack_type": "Wheel racks", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "300 Elizabeth Street", 
+    "capacity": 6, 
+    "id": 32, 
+    "latitude": -27.46786, 
+    "location": "Near corner Elizabeth and Creek Street", 
+    "longitude": 153.0292, 
+    "rack_type": "3 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "308 Queen Street", 
+    "capacity": 2, 
+    "id": 33, 
+    "latitude": -27.4672, 
+    "location": "Footpath", 
+    "longitude": 153.0283, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "31 Tank Street (Santos Place)", 
+    "capacity": 44, 
+    "id": 34, 
+    "latitude": -27.46866, 
+    "location": "Walkway through Santos site between Tank Street and Turbot Street (next to car park entry)", 
+    "longitude": 153.0201, 
+    "rack_type": "22 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "31 Wharf Street", 
+    "capacity": 2, 
+    "id": 35, 
+    "latitude": -27.46511, 
+    "location": "Corner of wharf Street and Adelaide Street.", 
+    "longitude": 153.0296, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "32 Edward Street", 
+    "capacity": 4, 
+    "id": 36, 
+    "latitude": -27.4718, 
+    "location": "Footpath", 
+    "longitude": 153.0302, 
+    "rack_type": "2 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "320 Adelaide Street", 
+    "capacity": 5, 
+    "id": 37, 
+    "latitude": -27.46502, 
+    "location": "Front of Fitness First", 
+    "longitude": 153.0293, 
+    "rack_type": "3 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "320 Adelaide Street", 
+    "capacity": 6, 
+    "id": 38, 
+    "latitude": -27.46628, 
+    "location": "Footpath near corner Creek Street", 
+    "longitude": 153.0277, 
+    "rack_type": "3 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "340 George Street", 
+    "capacity": 2, 
+    "id": 39, 
+    "latitude": -27.46922, 
+    "location": "Footpath (outside Java Cafe)", 
+    "longitude": 153.0217, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "36 Bowen Street Spring Hill", 
+    "capacity": 2, 
+    "id": 40, 
+    "latitude": -27.46237, 
+    "location": "Foothpath", 
+    "longitude": 153.0283, 
+    "rack_type": "Holding rail", 
+    "suburb": "Spring Hill"
+  }, 
+  {
+    "address": "36 Bowen Street Spring Hill", 
+    "capacity": 2, 
+    "id": 41, 
+    "latitude": -27.46233, 
+    "location": "Footpath", 
+    "longitude": 153.0283, 
+    "rack_type": "Holding rail", 
+    "suburb": "Spring Hill"
+  }, 
+  {
+    "address": "363 George Street", 
+    "capacity": 10, 
+    "id": 42, 
+    "latitude": -27.46828, 
+    "location": "Magistrates Court", 
+    "longitude": 153.0215, 
+    "rack_type": "5 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "400 George Street", 
+    "capacity": 4, 
+    "id": 43, 
+    "latitude": -27.46853, 
+    "location": "Footpath", 
+    "longitude": 153.0211, 
+    "rack_type": "2 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "419 George Street", 
+    "capacity": 8, 
+    "id": 44, 
+    "latitude": -27.46773, 
+    "location": "Footpath, outside District and Supreme Court", 
+    "longitude": 153.0205, 
+    "rack_type": "4 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "48 Turbot Street (400 George Street)", 
+    "capacity": 8, 
+    "id": 45, 
+    "latitude": -27.46879, 
+    "location": "Footpath", 
+    "longitude": 153.021, 
+    "rack_type": "4 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "488 Queen Street", 
+    "capacity": 6, 
+    "id": 46, 
+    "latitude": -27.46436, 
+    "location": "Footpath", 
+    "longitude": 153.0312, 
+    "rack_type": "3 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "53 Albert Street", 
+    "capacity": 5, 
+    "id": 47, 
+    "latitude": -27.47252, 
+    "location": "Footpath", 
+    "longitude": 153.0281, 
+    "rack_type": "3 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "62 Ann Street", 
+    "capacity": 4, 
+    "id": 48, 
+    "latitude": -27.46889, 
+    "location": "Footpath (outside Department of Agriculture and Fisheries Building)", 
+    "longitude": 153.0226, 
+    "rack_type": "2 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "69 Ann Street", 
+    "capacity": 4, 
+    "id": 49, 
+    "latitude": -27.46924, 
+    "location": "Footpath (outside Telstra Building)", 
+    "longitude": 153.0225, 
+    "rack_type": "2 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "80 Albert Street", 
+    "capacity": 5, 
+    "id": 50, 
+    "latitude": -27.47228, 
+    "location": "Footpath", 
+    "longitude": 153.0277, 
+    "rack_type": "3 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "80 Albert Street", 
+    "capacity": 2, 
+    "id": 51, 
+    "latitude": -27.47223, 
+    "location": "Footpath", 
+    "longitude": 153.0276, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "82 Ann Street", 
+    "capacity": 2, 
+    "id": 52, 
+    "latitude": -27.46868, 
+    "location": "Footpath (outside Sarina Russo Building)", 
+    "longitude": 153.0229, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "87 Albert Street", 
+    "capacity": 6, 
+    "id": 53, 
+    "latitude": -27.47173, 
+    "location": "Footpath", 
+    "longitude": 153.0274, 
+    "rack_type": "3 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "88 Mary Street", 
+    "capacity": 6, 
+    "id": 54, 
+    "latitude": -27.47198, 
+    "location": "Corner Mary Street and Albert Streets", 
+    "longitude": 153.0272, 
+    "rack_type": "3 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "97 Creek Street", 
+    "capacity": 2, 
+    "id": 55, 
+    "latitude": -27.46649, 
+    "location": "Footpath", 
+    "longitude": 153.0282, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Boundary st- near Ivory St", 
+    "capacity": 2, 
+    "id": 56, 
+    "latitude": -27.46232, 
+    "location": "Southern Boundary St footpath, near traffic lights", 
+    "longitude": 153.0331, 
+    "rack_type": "Holding rail", 
+    "suburb": "Fortitude Valley"
+  }, 
+  {
+    "address": "Boundary st, near Ivory Lane", 
+    "capacity": 2, 
+    "id": 57, 
+    "latitude": -27.46237, 
+    "location": "On southern footpath of Boundary St, below Story Bridge", 
+    "longitude": 153.0343, 
+    "rack_type": "Holding rail", 
+    "suburb": "Fortitude Valley"
+  }, 
+  {
+    "address": "City Botanic Gardens", 
+    "capacity": 5, 
+    "id": 58, 
+    "latitude": -27.47432, 
+    "location": "Near rotunda", 
+    "longitude": 153.03, 
+    "rack_type": "wheel racks", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "City Botanic Gardens", 
+    "capacity": 8, 
+    "id": 59, 
+    "latitude": -27.47374, 
+    "location": "Near all abilities playground", 
+    "longitude": 153.0309, 
+    "rack_type": "4 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Corner Adelaide Street and Creek Street", 
+    "capacity": 2, 
+    "id": 60, 
+    "latitude": -27.46642, 
+    "location": "Footpath", 
+    "longitude": 153.0278, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Corner Ann St and North Quay", 
+    "capacity": 7, 
+    "id": 61, 
+    "latitude": -27.47014, 
+    "location": "Beneath overpass", 
+    "longitude": 153.0214, 
+    "rack_type": "5 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Corner Charlotte Street and Eagle Street", 
+    "capacity": 7, 
+    "id": 62, 
+    "latitude": -27.46875, 
+    "location": "Footpath, near traffic lights", 
+    "longitude": 153.03, 
+    "rack_type": "5 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Corner Charlotte Street and Edward Street", 
+    "capacity": 2, 
+    "id": 63, 
+    "latitude": -27.46997, 
+    "location": "Footpath", 
+    "longitude": 153.0284, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Corner George Street and Margaret Street", 
+    "capacity": 4, 
+    "id": 64, 
+    "latitude": -27.47383, 
+    "location": "Footpath (outside Mineral House)", 
+    "longitude": 153.0264, 
+    "rack_type": "4 x Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Corner George Street and Mary Street", 
+    "capacity": 2, 
+    "id": 65, 
+    "latitude": -27.47311, 
+    "location": "Footpath (outside Capital Hill Building)", 
+    "longitude": 153.0257, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Corner George Street and Queen Street", 
+    "capacity": 10, 
+    "id": 66, 
+    "latitude": -27.47114, 
+    "location": "Redacliff Place (above bus tunnel)", 
+    "longitude": 153.0235, 
+    "rack_type": "7 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Corner North Quay and Queen Street", 
+    "capacity": 38, 
+    "id": 67, 
+    "latitude": -27.47135, 
+    "location": "Redacliff Place (North Quay side)", 
+    "longitude": 153.0227, 
+    "rack_type": "2 x 10 bay racks, 1 x 7 bay rack, 1 x 5 bay rack, 6 single sided holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Corner Queen Street and Creek Street", 
+    "capacity": 3, 
+    "id": 68, 
+    "latitude": -27.46695, 
+    "location": "Footpath", 
+    "longitude": 153.0289, 
+    "rack_type": "wheel rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Corner Queen Street and Eagle Street", 
+    "capacity": 5, 
+    "id": 69, 
+    "latitude": -27.46605, 
+    "location": "Footpath", 
+    "longitude": 153.03, 
+    "rack_type": "3 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Corner Queen Street and Eagle Street", 
+    "capacity": 5, 
+    "id": 70, 
+    "latitude": -27.46559, 
+    "location": "In front of Emerites building", 
+    "longitude": 153.0307, 
+    "rack_type": "3 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Corner Turbot Street and Wickham Terrace", 
+    "capacity": 7, 
+    "id": 71, 
+    "latitude": -27.46522, 
+    "location": "Wickham Terrace Car Park, inside Turbot Street entrance", 
+    "longitude": 153.0258, 
+    "rack_type": "toaster rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Eagle Street Pier", 
+    "capacity": 10, 
+    "id": 72, 
+    "latitude": -27.46975, 
+    "location": "In entry area", 
+    "longitude": 153.0305, 
+    "rack_type": "2 x 5 bay racks", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Gardens Point Road", 
+    "capacity": 7, 
+    "id": 73, 
+    "latitude": -27.47753, 
+    "location": "Top of cul-de-sac", 
+    "longitude": 153.0305, 
+    "rack_type": "5 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Gardens Point Road, QUT", 
+    "capacity": 9, 
+    "id": 74, 
+    "latitude": -27.47897, 
+    "location": "Near picnic shelter", 
+    "longitude": 153.0283, 
+    "rack_type": "7 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Gardens Point Road, QUT", 
+    "capacity": 7, 
+    "id": 75, 
+    "latitude": -27.47899, 
+    "location": "Near picnic shelter", 
+    "longitude": 153.0283, 
+    "rack_type": "5 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "King George Square", 
+    "capacity": 10, 
+    "id": 76, 
+    "latitude": -27.46856, 
+    "location": "King George Square (Speakers Corner), above Adelaide Street", 
+    "longitude": 153.0246, 
+    "rack_type": "7 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "King George Square", 
+    "capacity": 20, 
+    "id": 77, 
+    "latitude": -27.46883, 
+    "location": "King George Square (behind busway entrance on Adelaide Street)", 
+    "longitude": 153.0241, 
+    "rack_type": "2 x 10 bay racks", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Parkland Boulevard", 
+    "capacity": 8, 
+    "id": 78, 
+    "latitude": -27.46346, 
+    "location": "Roma Street Parklands, near main entry off Parkland Boulevard", 
+    "longitude": 153.0174, 
+    "rack_type": "4 x holding rails", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Queens Wharf Road", 
+    "capacity": 4, 
+    "id": 79, 
+    "latitude": -27.47242, 
+    "location": "Bicentennial Bikeway, near steps to North Quay Ferry Terminal", 
+    "longitude": 153.0231, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Roma Street", 
+    "capacity": 7, 
+    "id": 80, 
+    "latitude": -27.46794, 
+    "location": "Roma Street entrance to King George Square Busway Station", 
+    "longitude": 153.0234, 
+    "rack_type": "5 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Wickham Terrace, near Upper Edward St", 
+    "capacity": 7, 
+    "id": 81, 
+    "latitude": -27.46501, 
+    "location": "Wickham Terrace Car Park, level 4b", 
+    "longitude": 153.0253, 
+    "rack_type": "5 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Wickham Terrace, near Upper Edward Street", 
+    "capacity": 10, 
+    "id": 82, 
+    "latitude": -27.4649, 
+    "location": "Wickham Terrace Car Park, level 4a", 
+    "longitude": 153.0253, 
+    "rack_type": "8 bay rack", 
+    "suburb": "City"
+  }, 
+  {
+    "address": "Roma Street", 
+    "capacity": 2, 
+    "id": 83, 
+    "latitude": -27.466245, 
+    "location": "On Shared pathway front of Police Watch house near City Cycle facility", 
+    "longitude": 153.017233, 
+    "rack_type": "Holding rail", 
+    "suburb": "City"
+  }
+]

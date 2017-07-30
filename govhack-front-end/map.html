@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>ActiveCity - Map</title>
+
+      
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- JQuery UI -->
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+          <script src="js/index.js"></script>
+    <link rel="stylesheet" href="css/map.css">
+  </head>
+  <body>
+    <div id="floating-panel">
+    <div>
+    <b>Start: </b>
+    <input class='auto' id="start" type="text" name="address" /> 
+    </div>
+    <div>
+    <b>End: </b>
+    <input class='auto' id="end" type="text" name="address" />
+    </div>
+    <div>
+    <b>Distance exercised: </b>
+    <input class='secondarysearch' id="radius" type='text' name="radius" form="search" placeholder="in Km">
+ 
+    </div>
+    <div>
+    <input id="router" type=button value="Find Route">
+
+    </div>
+      </div>
+      
+    <div id="floating-legend">
+    LEGEND
+    <div>
+    <b>City Cycle bikes </b>
+    <img src='bike.png'> 
+    </div>
+    <div>
+    <b>Home location </b>
+    <img src='house.png'> 
+    </div>
+    <div>
+    <b>Work Location </b>
+    <img src='work.png'> 
+    </div>
+    <div>
+    <b>Water Fountains </b>
+    <img src='bubbler.png'> 
+    </div>
+    <div>
+    <b>Public bike racks </b>
+    <img src='rack.png'> 
+    </div>
+
+    </div>
+    <div id="floating-hide">
+        <span id='hideshow'>Hide Legend</span>
+      </div>
+
+    <div id="map"></div>
+    <script>
+      
+    </script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAiMYImJehYlVJz54O6ba6Masf46kT4yUA&callback=initMap&libraries=places">
+    </script>
+  </body>
+    
+<script lang="javascript">
+
+params = getParams();
+homeaddress = unescape(params["homeaddress"]);
+workaddress = unescape(params["workaddress"]);
+radius = unescape(params["radius"]);
+
+document.getElementById('start').value = homeaddress.replace(/\+/g,' ');
+document.getElementById('end').value = workaddress.replace(/\+/g,' ');
+document.getElementById('radius').value = radius;
+
+    
+
+
+</script>
+</html>
