@@ -9,7 +9,7 @@ The Artisan Hacksmiths applied themselves to finding creative solutions to this 
 We want to empower people to engage with healthier options to make that journey. To add benefit to both their necessary trips and al.
    * "How can I swap out my regular habits to have a healthier lifestyle through my transport habits"
 
-![Average of greater brisbane values]()
+![Average of greater brisbane values](https://github.com/charlesluch/GovHack-Team1/blob/master/Datasets/Presentation/Vis%20greater%20brisbane%20pie%20chart.png)
 
 We envisage the application to be scalable in the following ways:
 1. Self improvement compared to demographics
