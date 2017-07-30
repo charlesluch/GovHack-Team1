@@ -10,6 +10,8 @@ We want to empower people to engage with healthier options to make that journey.
    * "How can I swap out my regular habits to have a healthier lifestyle through my transport habits"
 
 ![Average of greater brisbane values](https://github.com/charlesluch/GovHack-Team1/blob/master/Datasets/Presentation/Vis%20greater%20brisbane%20pie%20chart.png)
+![Average of greater brisbane values](https://github.com/charlesluch/GovHack-Team1/blob/master/Datasets/Presentation/Vis%20greater%20brisbane%20pie%20chart%20with%20brand%20colors.png)
+
 
 We envisage the application to be scalable in the following ways:
 1. Self improvement compared to demographics
