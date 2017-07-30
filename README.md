@@ -6,15 +6,15 @@
 
 Nearly half of Queenslanders are not getting enough exercise to maintain their health. During our commutes we habitually choose the most time efficient mode of transport over the benefits of a more active mode of transport.
 
+We therefore believe in empowering people to engage with healthier options when deciding how they commute and how they move around the city, so that they can more easily answer the question:
+
+    "How can I swap out my regular habits to have a healthier lifestyle through my transport habits?"
+    
 The Artisan Hacksmiths applied themselves to finding creative solutions to this problem and came up with a web based application, [activecity.space](), that makes it easier for users to find healthier ways of getting around Brisbane.
 
-Users input their origin, destination, and the distance they'd like to commute into the city using CityCycle, using .
+To use the app, users input their origin, destination, and the distance they'd like to commute into the city using [CityCycle](http://www.citycycle.com.au/), the app then returns the best places for them to park their car and collect a [CityCycle](http://www.citycycle.com.au/) to finish their commute to their destination.
 
 The [activecity.space]() application design can also easily be scaled to include bike racks and water fountains using existing datasets.
 
-In sum, we believe in empowering people to engage with healthier options when deciding how they commute and how they move around their city.
-
-    "How can I swap out my regular habits to have a healthier lifestyle through my transport habits"
 
 [ABS Exercise Reference](http://www.abs.gov.au/ausstats/abs@.nsf/mf/4364.0.55.001)
-"In 2014-15, 55.5% of 18-64 year olds participated in sufficient physical activity in the last week (more than 150 minutes of moderate physical activity or more than 75 minutes of vigorous physical activity, or an equivalent combination of both, including walking). Nearly one in three (29.7%) were insufficiently active (less than 150 minutes in the last week) while 14.8% were inactive (no exercise in the last week)."
